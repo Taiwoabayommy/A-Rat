@@ -28,9 +28,9 @@ def logo():
 def help():
  print("""
   Commands :
-       set HOST       : Set Your Host (e.g set HOST 127.0.0.1)
-       set PORT       : Set Your Port (e.g set PORT 1337)
-       set OUTPUT     : Set Your Output Name And Path (e.g set OUTPUT /home/payload)
+       set HOST       : Set Your Host (172.69.253.144)
+       set PORT       : Set Your Port (44144)
+       set OUTPUT     : Set Your Output Name And Path (set OUTPUT /home/phone storage/Rat)
        show values    : Show Host, Port And Output Value
        start listener : Start Your Conection Server 
 
